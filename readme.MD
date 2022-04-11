@@ -33,7 +33,7 @@ Example to create Azure Resource using Pulumi (Infrastructure as Code), in order
     ``` 
     To destroy the infrastructure created if you need to make any modification or created for testing purpose 
 
-*** Primary Requiremnets for the project ***
+**Primary Requiremnets for the project**
 - azure cloud account with login, connected to your system
 - pulumi account with login, connected to your system 
 - azure cli 
